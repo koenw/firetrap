@@ -10,7 +10,7 @@ Firetrap helps you create modern, safe and extensible FTP servers in Rust.
 Because of its plugable authentication and storage backends (e.g. local filesystem, Google Buckets) it's more flexible than traditional FTP servers and a perfect match for the cloud.
 
 **Due to personal reasons, I'm no longer working on this project. Firetrap has
-since been forked by my previous employer who is continuing development at
+since been forked by my previous employer who is continuing development on
 [unFTP](https://github.com/bolcom/unFTP). This repository now serves only as an
 archive.**
 
